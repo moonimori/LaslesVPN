@@ -1,2 +1,2 @@
-# <a href="https://afoninis.github.io/LaslesVPN/">Посмотреть</a>
+# <a href="https://steelaura.github.io/LaslesVPN/">Посмотреть</a>
 LaslesVPN Landing (non-adaptive)
